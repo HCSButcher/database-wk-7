@@ -6,6 +6,7 @@ CREATE TABLE ProductDetail_1NF (
 );
 
 
+
 INSERT INTO ProductDetail_1NF (OrderID, CustomerName, Product)
 VALUES
 (101, 'John Doe', 'Laptop'),
